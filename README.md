@@ -1,5 +1,4 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cygen.network/img/background.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -16,13 +15,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Cygen Network, Minecraft Server Network
+- 🔭 I’m currently working on a bunch of projects
 
-- 🌱 I’m currently learning Go Lang, Network Engineering 
+- 🌱 I’m currently learning MongoDB
 
 - 👯 I’m looking to collaborate on Nothing 
 
-- 💬 Talk to me about Python, JavaScript, Open Source Software, and upcoming Minecraft Server Software 
+- 💬 Talk to me about Javascript, Node.Js, or anything else
 
 <h2> Skills</h2>
 <a href= https://github.com/isaacthedev?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
