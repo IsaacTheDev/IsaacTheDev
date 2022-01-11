@@ -37,7 +37,7 @@
 
 <h2> Stuff I worked on last week</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@7150982e-9d84-46b5-8cc9-522947ef9ea8&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=isaacthedev&compact=True"/>
 </a>
 <br>
 
