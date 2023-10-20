@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a bunch of projects<br>🌱 I’m currently learning Typescript React
+🔭 I’m currently working on a bunch of projects
 
 
 ## 🌐 Socials:
