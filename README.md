@@ -10,12 +10,13 @@ C:\> dir
 
  Directory of C:\
 
-03/09/2024  08:00 PM    <DIR>          about_me
-03/09/2024  08:00 PM    <DIR>          projects
-03/09/2024  08:00 PM    <DIR>          tech_stack
-03/09/2024  08:00 PM    <DIR>          contact_info
-               0 File(s)              0 bytes
-               4 Dir(s)   1,024,000,000 bytes free
+03/09/2024  08:00 PM    <FILE>         about_me.txt
+03/09/2024  08:00 PM    <FILE>         projects.txt
+03/09/2024  08:00 PM    <FILE>         tech_stack.txt
+03/09/2024  08:00 PM    <FILE>         contact_info.txt
+03/09/2024  08:00 PM    <FILE>         statistics.bat
+               5 File(s)              656 bytes
+               0 Dir(s)   1,024,000,000 bytes free
 ```
 
 ```
