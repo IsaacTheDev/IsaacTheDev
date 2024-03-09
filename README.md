@@ -21,7 +21,8 @@ C:\> dir
 ```
 C:\> type about_me.txt
 
-Hi there! I'm Isaac, a passionate developer who loves to build next-generation applications. Want to work together? Reach out to me! I'm always open to new opportunities.
+Hi there! I'm Isaac, a passionate developer who loves to build next-generation applications.
+Want to work together? Reach out to me! I'm always open to new opportunities.
 ```
 
 ```
