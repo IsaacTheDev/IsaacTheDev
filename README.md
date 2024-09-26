@@ -73,7 +73,7 @@ C:\> statistics IsaacTheDev
 C:\> type contact_info.txt
 
 📫 Reach out to me:
-Email: [isaac@devplusllc.com](mailto:isaac@devplusllc.com)
+Email: [devplusllc@gmail.com](devplusllc@gmail.comm)
 Discord: isaacthedev
 ```
 
